@@ -70,6 +70,6 @@ images/
 
 ## Status
 
-🚧 Project in Progress
+Project in Progress
 
 This repository is being developed as a practical ISO/IEC 27001 case study and will be updated as each phase of the ISMS implementation is completed.
