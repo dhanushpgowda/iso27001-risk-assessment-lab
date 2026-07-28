@@ -1,59 +1,175 @@
 # Company Overview
 
+---
+
 ## Executive Summary
 
-(write here)
+(2–3 paragraphs)
+
+Briefly introduce:
+- What CloudCart is
+- What it does
+- Why this ISO 27001 project exists
+
+Example:
+
+CloudCart Pvt. Ltd. is a fictional Software-as-a-Service (SaaS) company headquartered in Bengaluru, India. The organization provides cloud-based e-commerce solutions for over 500 business customers.
+
+As the organization grows, protecting customer information and ensuring the availability of cloud services have become strategic priorities. This project demonstrates the implementation of an Information Security Management System (ISMS) aligned with ISO/IEC 27001:2022.
 
 ---
 
 ## Company Background
 
-(write here)
+This section explains the business itself.
+
+Include information like:
+
+### Organization
+
+CloudCart Pvt. Ltd.
+
+### Industry
+
+Software-as-a-Service (SaaS)
+
+### Headquarters
+
+Bengaluru, India
+
+### Employees
+
+60
+
+### Customers
+
+500+
+
+### Business Description
+
+CloudCart develops and manages a cloud-based e-commerce platform that enables businesses to create online stores, manage inventory, process customer orders, and analyze sales performance.
+
+The platform is designed for small and medium-sized businesses that require a scalable and secure cloud solution.
 
 ---
 
 ## Mission
 
-(write here)
+CloudCart's mission is to provide secure, reliable, and scalable e-commerce solutions that enable businesses to grow confidently while protecting customer information and ensuring service availability.
 
 ---
 
 ## Business Model
 
-(write here)
+CloudCart operates using a Software-as-a-Service (SaaS) subscription model.
+
+Customers subscribe to monthly or annual plans to access the cloud-hosted platform.
+
+Revenue is generated through recurring subscriptions while CloudCart is responsible for:
+
+- Application maintenance
+- Cloud infrastructure
+- Security
+- Software updates
+- Customer support
 
 ---
 
 ## Services Offered
 
-(write here)
+- Cloud-hosted e-commerce platform
+- Inventory management
+- Customer order management
+- Sales analytics
+- User management
+- Payment integration
 
 ---
 
 ## Organizational Structure
 
-(write here)
+CEO
+
+↓
+
+Engineering Team
+
+↓
+
+Product Team
+
+↓
+
+IT Operations
+
+↓
+
+Information Security
+
+↓
+
+Human Resources
+
+↓
+
+Customer Support
+
+↓
+
+Sales & Marketing
 
 ---
 
 ## Technology Stack
 
-(write here)
+Cloud Infrastructure
+- AWS
+
+Productivity
+- Microsoft 365
+
+Source Control
+- GitHub
+
+Project Management
+- Jira
+
+Documentation
+- Confluence
 
 ---
 
 ## Data Processed
 
-(write here)
+CloudCart processes:
+
+- Customer Personally Identifiable Information (PII)
+- Customer account credentials
+- Order information
+- Product inventory
+- Payment transaction metadata
+- Employee information
+- Audit logs
 
 ---
 
 ## Business Objectives
 
-(write here)
+- Deliver secure SaaS services
+- Maintain high platform availability
+- Protect customer information
+- Meet regulatory requirements
+- Improve customer trust
+- Support business growth
 
 ---
 
 ## Key Business Risks
 
-(write here)
+- Data breaches
+- Ransomware attacks
+- Cloud service outages
+- Unauthorized access
+- Insider threats
+- Third-party supplier risks
+- Regulatory non-compliance
