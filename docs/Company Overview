@@ -3,27 +3,16 @@
 ---
 
 ## Executive Summary
+CloudCart Pvt. Ltd. is a fictional Software-as-a-Service (SaaS) company headquartered in Bengaluru, India. The organization provides cloud-based e-commerce solutions to more than 500 business customers, enabling them to manage online stores, customer orders, inventory, and payments through a centralized web platform.
 
-(2–3 paragraphs)
+As the organization grows, protecting customer information and ensuring the availability of its cloud services have become critical business priorities. To strengthen its information security posture and prepare for future compliance requirements, CloudCart has initiated the implementation of an Information Security Management System (ISMS) aligned with ISO/IEC 27001:2022.
 
-Briefly introduce:
-- What CloudCart is
-- What it does
-- Why this ISO 27001 project exists
-
-Example:
-
-CloudCart Pvt. Ltd. is a fictional Software-as-a-Service (SaaS) company headquartered in Bengaluru, India. The organization provides cloud-based e-commerce solutions for over 500 business customers.
-
-As the organization grows, protecting customer information and ensuring the availability of cloud services have become strategic priorities. This project demonstrates the implementation of an Information Security Management System (ISMS) aligned with ISO/IEC 27001:2022.
-
----
+This project documents the initial stages of the ISMS implementation, including understanding the organization, defining the scope, identifying assets, assessing risks, and selecting appropriate security controls.
 
 ## Company Background
-
-This section explains the business itself.
-
-Include information like:
+CloudCart develops cloud-hosted e-commerce software for small and medium-sized businesses. Customers use the platform to create online stores, manage products, process customer orders, and analyze sales performance.
+Because the platform stores customer information and business data, maintaining confidentiality, integrity, and availability is essential.
+As CloudCart expands its customer base, the organization recognizes the importance of implementing structured information security governance to reduce cyber risk and improve customer trust.
 
 ### Organization
 
@@ -122,20 +111,13 @@ Sales & Marketing
 
 ## Technology Stack
 
-Cloud Infrastructure
-- AWS
-
-Productivity
-- Microsoft 365
-
-Source Control
-- GitHub
-
-Project Management
-- Jira
-
-Documentation
-- Confluence
+| Category | Technology |
+|----------|------------|
+| Cloud Infrastructure | AWS |
+| Productivity Suite | Microsoft 365 |
+| Source Control | GitHub |
+| Project Management | Jira |
+| Documentation | Confluence |
 
 ---
 
