@@ -1,6 +1,6 @@
 # Organizational Context
 
-1. Purpose
+#Purpose
 The purpose of this document is to identify and evaluate the internal and external factors that may influence CloudCart's Information Security Management System (ISMS). Understanding the organization's context helps ensure that the ISMS aligns with business objectives, supports risk-based decision-making, and addresses relevant security risks.
 
 2. Internal Issues
